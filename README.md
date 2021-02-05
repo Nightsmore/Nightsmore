@@ -1,3 +1,3 @@
 ### Welcome!
 
-I'm Chris, amateur programmer, coffee connoisseur, and video game enthusest.
+I'm Chris, programmer, coffee connoisseur, and video game enthusest.
